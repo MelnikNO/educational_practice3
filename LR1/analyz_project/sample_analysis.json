@@ -1,0 +1,61 @@
+{
+  "file_info": {
+    "file_path": "sample.txt",
+    "file_size_bytes": 223
+  },
+  "text_statistics": {
+    "sentences_count": 4,
+    "characters": {
+      "total_characters": 123,
+      "characters_without_spaces": 108
+    },
+    "language_hint": "Русский"
+  },
+  "word_statistics": {
+    "total_words": 15,
+    "unique_words": 15,
+    "top10_words": [
+      [
+        "привет",
+        1
+      ],
+      [
+        "мир",
+        1
+      ],
+      [
+        "это",
+        1
+      ],
+      [
+        "тестовый",
+        1
+      ],
+      [
+        "текст",
+        1
+      ],
+      [
+        "python",
+        1
+      ],
+      [
+        "отличный",
+        1
+      ],
+      [
+        "язык",
+        1
+      ],
+      [
+        "программирования",
+        1
+      ],
+      [
+        "анализ",
+        1
+      ]
+    ],
+    "avg_word_length": 6.87
+  }
+}
