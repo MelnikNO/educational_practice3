@@ -161,6 +161,6 @@
 
 <img width="780" height="472" alt="image" src="https://github.com/user-attachments/assets/e1ff6622-48a3-44e0-a08f-706377fc36e5" />
 
-
+![Задание3](https://github.com/MelnikNO/educational_practice3/blob/main/LR3/LR3/results/convergence.png)
 
 
