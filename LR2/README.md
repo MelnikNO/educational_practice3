@@ -108,4 +108,12 @@
 
 **Итог**
 
+![Задание3](https://github.com/MelnikNO/educational_practice3/blob/main/LR2/1.png)
 
+![Задание3](https://github.com/MelnikNO/educational_practice3/blob/main/LR2/2.png)
+
+![Задание3](https://github.com/MelnikNO/educational_practice3/blob/main/LR2/3.png)
+
+![Задание3](https://github.com/MelnikNO/educational_practice3/blob/main/LR2/4.png)
+
+![Задание3](https://github.com/MelnikNO/educational_practice3/blob/main/LR2/5.png)
