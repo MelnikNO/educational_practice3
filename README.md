@@ -7,3 +7,5 @@
 ## [Лабораторная работа 3](https://github.com/MelnikNO/educational_practice3/tree/main/LR3#readme)
 
 ## [Лабораторная работа 4](https://github.com/MelnikNO/educational_practice3/tree/main/LR4#readme)
+
+## [Лабораторная работа 5](https://github.com/MelnikNO/educational_practice3/tree/main/LR5#readme)
